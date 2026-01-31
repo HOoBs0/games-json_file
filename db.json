@@ -1,4 +1,5 @@
-  [
+{
+  "windows": [
     {
       "id": 1,
       "name": "gta vice city",
@@ -310,3 +311,4 @@
       ]
     }
   ]
+}
